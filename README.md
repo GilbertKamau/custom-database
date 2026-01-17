@@ -155,7 +155,6 @@ Understanding the difference between memory and disk is critical in DB design.
 
 How to Run
 ```bash
-Copy code
 npm install
 npm start
 ```
@@ -189,4 +188,5 @@ This README **documents your project fully**:
 - Future improvements ✅  
 
 ---
+
 
